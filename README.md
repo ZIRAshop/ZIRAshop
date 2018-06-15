@@ -1,2 +1,0 @@
-# ZIRAshop
-Tienda de ropa
